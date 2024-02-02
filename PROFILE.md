@@ -1,1 +1,1 @@
-This is profile screen
+Welcome to my GitHub profile!
